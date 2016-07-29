@@ -1,6 +1,6 @@
 -- MySQL dump 10.13  Distrib 5.7.9, for Win64 (x86_64)
 --
--- Host: localhost    Database: ducarrouge15201291
+-- Host: localhost    Database: xxxxxxxxx
 -- ------------------------------------------------------
 -- Server version	5.7.9-log
 
@@ -176,7 +176,7 @@ INSERT INTO `positionsskills` VALUES (1,'administrative'),(1,'programming'),(1,'
 UNLOCK TABLES;
 
 --
--- Dumping routines for database 'ducarrouge15201291'
+-- Dumping routines for database 'xxxxxxxxx'
 --
 /*!50003 DROP PROCEDURE IF EXISTS `CountAdminPositions` */;
 /*!50003 SET @saved_cs_client      = @@character_set_client */ ;
